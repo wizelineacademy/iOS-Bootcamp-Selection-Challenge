@@ -1,0 +1,9 @@
+{
+  "weight": 40,
+  "id": 132,
+  "types": ["normal"],
+  "base_experience": 101,
+  "image": "/assets/p.ditto.png",
+  "name": "ditto",
+  "abilities": ["Limber", "Imposter"]
+}
